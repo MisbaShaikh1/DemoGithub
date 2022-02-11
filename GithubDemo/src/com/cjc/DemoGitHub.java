@@ -12,5 +12,6 @@ public class DemoGitHub
 	public void m1()
 	{
 		System.out.println("Hello this is M1");
+		System.out.println("Hello this is M1");
 	}
 }
